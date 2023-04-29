@@ -1,2 +1,2 @@
 # Astro_config
-justa backup init.lua for my vim config repo
+just a backup init.lua for my vim config repo
